@@ -1,6 +1,4 @@
 body{
-    background-image: url("images_src/football_img.jpg");
-    background-size: cover;
     display: flex;
     justify-content: center;
     align-items: center;
